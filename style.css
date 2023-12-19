@@ -1,0 +1,29 @@
+body{
+    background-color:lightblue;
+}
+
+h1{
+    color:navajowhite;
+    margin-left:20px 
+}
+
+.colored {
+    background-color: brown;
+}
+
+#style-out{
+    color: aquamarine;
+}
+
+table {
+    font-family: arial, sans-serif;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 5px solid #000000;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  
